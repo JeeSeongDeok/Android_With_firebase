@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "236530077306",
+    "firebase_url": "https://teamp-c4c2f.firebaseio.com",
+    "project_id": "teamp-c4c2f",
+    "storage_bucket": "teamp-c4c2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236530077306:android:a5832ee78b68306949f5c3",
+        "android_client_info": {
+          "package_name": "com.example.team_p"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236530077306-uons15tmke6891bckhtvdp62ov81b5pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgTDeIbiZCbItkK0uY0i6tCcn0wegjmcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236530077306-uons15tmke6891bckhtvdp62ov81b5pe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
