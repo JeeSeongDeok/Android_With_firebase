@@ -5,7 +5,7 @@
 
 ## 실행화면
 ### 메인 화면 
-<img src="https://user-images.githubusercontent.com/23256819/111060388-dfaa8580-84df-11eb-819b-6910060ad4eb.png" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/23256819/111060388-dfaa8580-84df-11eb-819b-6910060ad4eb.png" width="300" height="500"></img>
 노트북 이미지는 Firebase에 저장된 이미지를 불러왔다.
 ###  검색결과 화면
 <img src="https://user-images.githubusercontent.com/23256819/111060390-e0dbb280-84df-11eb-87b5-cf7c862edaab.png" width="300" height="500">
