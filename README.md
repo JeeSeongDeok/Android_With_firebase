@@ -5,3 +5,11 @@
 ## 실행화면
 - 메인 화면 
 <img src="https://user-images.githubusercontent.com/23256819/111060388-dfaa8580-84df-11eb-819b-6910060ad4eb.png" width="300" height="500">
+- 검색결과 화면
+<img src="https://user-images.githubusercontent.com/23256819/111060390-e0dbb280-84df-11eb-87b5-cf7c862edaab.png" width="300" height="500">
+- 상품화면
+<img src="https://user-images.githubusercontent.com/23256819/111060392-e1744900-84df-11eb-9e6a-ea1eda19bfbe.png" width="300" height="500">
+- 리뷰 클릭 시 나오는 화면
+<img src="https://user-images.githubusercontent.com/23256819/111060393-e1744900-84df-11eb-9e0a-8b0ce5271fc2.png" width="300" height="500">
+- 단어 선택시 나오는 화면
+<img src="https://user-images.githubusercontent.com/23256819/111060394-e20cdf80-84df-11eb-95b7-acbae4dcac8e.png" width="300" height="500">
