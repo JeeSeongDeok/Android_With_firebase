@@ -4,17 +4,17 @@
 방학 때 경남테크노파크에서 인공지능에 관한 수업을 들은 이후, 이와 관련된 프로젝트를 완성했다. 제품에 대한 리뷰를 크롤링을 통해서 긁어온 후, 리뷰를 TF-IDF 알고리즘을 통해서 분석을 해봤다. 
 
 ## 실행화면
-### 1. 메인 화면 
+### 메인 화면 
 <img src="https://user-images.githubusercontent.com/23256819/111060388-dfaa8580-84df-11eb-819b-6910060ad4eb.png" width="300" height="500">
 노트북 이미지는 Firebase에 저장된 이미지를 불러왔다.
-### 2. 검색결과 화면
+###  검색결과 화면
 <img src="https://user-images.githubusercontent.com/23256819/111060390-e0dbb280-84df-11eb-87b5-cf7c862edaab.png" width="300" height="500">
-### 3. 상품화면
+###  상품화면
 <img src="https://user-images.githubusercontent.com/23256819/111060392-e1744900-84df-11eb-9e6a-ea1eda19bfbe.png" width="300" height="500">
-### 4. 리뷰 클릭 시 나오는 화면
+###  리뷰 클릭 시 나오는 화면
 <img src="https://user-images.githubusercontent.com/23256819/111060393-e1744900-84df-11eb-9e0a-8b0ce5271fc2.png" width="300" height="500">
 TF-IDF 알고리즘을 이용해서 추출한 단어들이다.
-### 5. 단어 선택시 나오는 화면
+###  단어 선택시 나오는 화면
 <img src="https://user-images.githubusercontent.com/23256819/111060394-e20cdf80-84df-11eb-95b7-acbae4dcac8e.png" width="300" height="500">
 단어를 선택시 단어가 포함된 리뷰가 나타난다.
 
