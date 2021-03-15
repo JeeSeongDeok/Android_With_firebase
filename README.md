@@ -111,4 +111,7 @@ Ref.addListenerForSingleValueEvent(new ValueEventListener() {
 - 수정 중
 
 ## 프로젝트에 참여한 사람들
+- [@HYB0321](https://github.com/HYB0321): 머신러닝
+- [@koasy17](https://github.com/koasy17): 안드로이드 Front
+- [@tmddmddnjs](https://github.com/tmddmddnjs): 안드로이드 Firebase
 
