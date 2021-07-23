@@ -106,9 +106,7 @@ Ref.addListenerForSingleValueEvent(new ValueEventListener() {
             }
         });
 ```
-## 감성분석부분
-### 감성분석은 이 주소를 참고해주세요!
-- 수정 중
+
 
 ## 프로젝트에 참여한 사람들
 - [@HYB0321](https://github.com/HYB0321)
